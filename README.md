@@ -70,7 +70,7 @@ Drilled down into top 10 makes, engine types, and flight purposes to assess risk
  
  <img width="452" height="256" alt="image" src="https://github.com/user-attachments/assets/e7271c5c-906a-4f4c-8836-9ac4902fd170" />
 
- view on github: 
+ view on jupyter notebook on github: **https://github.com/Fatumatari/dsc-phase-1-project-v3/blob/master/Phase_1_Project%20(1).ipynb**
 
 
 
