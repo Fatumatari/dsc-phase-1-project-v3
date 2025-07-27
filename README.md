@@ -22,6 +22,7 @@ I was tasked with analyzing accident data and making **three business recommenda
 | `aviation_cleaned_data.csv` | Cleaned version of the dataset, ready for analysis |
 | `Phase1_Project.ipynb` | Main Jupyter notebook with code, analysis, visualizations, and markdown |
 | `Phase1_Project.pdf` | Exported PDF version of the notebook |
+| `Nontechnical_presenation.pdf` | Exported PDF version of the nontechnical presentation |
 | `Tableau_Dashboard.twbx` | Tableau packaged workbook (dashboard file) |
 | `README.md` | Project overview and documentation |
 
@@ -62,6 +63,14 @@ Created key visualizations to understand relationships:
 Drilled down into top 10 makes, engine types, and flight purposes to assess risk severity based on fatal and serious injury rates.
 
  <img width="468" height="186" alt="image" src="https://github.com/user-attachments/assets/86d5bb14-8e07-46d2-b783-e4c6f3de1037" />
+
+ 
+ <img width="452" height="242" alt="image" src="https://github.com/user-attachments/assets/fa2afba9-d652-450d-9b05-712a007e02bb" />
+
+ 
+ <img width="452" height="256" alt="image" src="https://github.com/user-attachments/assets/e7271c5c-906a-4f4c-8836-9ac4902fd170" />
+
+
 
 
 ## Tableau Dashboard
