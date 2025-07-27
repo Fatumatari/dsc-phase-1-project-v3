@@ -29,10 +29,8 @@ I was tasked with analyzing accident data and making **three business recommenda
 
 ## Tools & Technologies
 
-- **Python** (pandas, matplotlib, seaborn)
 - **jupyter Notebook**
 - **Tableau**
-- **Markdown**
 - **Git & GitHub**
 
 
