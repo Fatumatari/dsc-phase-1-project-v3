@@ -65,7 +65,7 @@ Drilled down into top 10 makes, engine types, and flight purposes to assess risk
 ## Tableau Dashboard
 
 The dashboard includes:
-- Interactive filters by **Aircraft Make**, **Year**, and **Injury Severity**
+- Interactive filters by **Aircraft Make**, **Aircraft Damage**, and **Injury Severity**
 - Visuals for:
   - Aircraft Make vs. Injury Severity
   - Flight Purpose vs. Injury Severity
