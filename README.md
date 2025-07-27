@@ -61,6 +61,8 @@ Created key visualizations to understand relationships:
 ### Step 5: Targeted Analysis
 Drilled down into top 10 makes, engine types, and flight purposes to assess risk severity based on fatal and serious injury rates.
 
+ <img width="468" height="186" alt="image" src="https://github.com/user-attachments/assets/86d5bb14-8e07-46d2-b783-e4c6f3de1037" />
+
 
 ## Tableau Dashboard
 
