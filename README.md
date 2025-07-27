@@ -14,7 +14,7 @@ The company is looking to purchase and operate aircraft for commercial and priva
 I was tasked with analyzing accident data and making **three business recommendations** to guide low-risk aircraft selection.
 
 
-## 📁 Contents
+## Contents
 
 | File | Description |
 |------|-------------|
@@ -26,7 +26,7 @@ I was tasked with analyzing accident data and making **three business recommenda
 | `README.md` | Project overview and documentation |
 
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 - **Python** (pandas, matplotlib, seaborn)
 - **jupyter Notebook**
@@ -35,22 +35,22 @@ I was tasked with analyzing accident data and making **three business recommenda
 - **Git & GitHub**
 
 
-## 🔍 Key Steps
+## Key Steps
 
-### ✅ Step 1: Business Understanding
+### Step 1: Business Understanding
 Defined the main business objective — identify lowest-risk aircraft using accident data.
 
-### ✅ Step 2: Data Understanding
+### Step 2: Data Understanding
 - Inspected 90,000+ records
 - Assessed missing values
 - Identified relevant columns (e.g., aircraft make, engine type, damage level, injury severity)
 
-### ✅ Step 3: Data Preparation
+### Step 3: Data Preparation
 - Dropped irrelevant fields (e.g., location coordinates, report dates)
 - Handled missing values using `Unknown` or `mode` imputation
 - Cleaned categorical variables (standardized text, grouped rare categories)
 
-### ✅ Step 4: Exploratory Data Analysis (EDA)
+### Step 4: Exploratory Data Analysis (EDA)
 Created key visualizations to understand relationships:
 - **Aircraft Make vs. Injury Severity**
 - **Flight Purpose vs. Injury Severity**
@@ -58,11 +58,11 @@ Created key visualizations to understand relationships:
 - **Trend of Accidents Over Time**
 - **Aircraft Damage Distribution**
 
-### ✅ Step 5: Targeted Analysis
+### Step 5: Targeted Analysis
 Drilled down into top 10 makes, engine types, and flight purposes to assess risk severity based on fatal and serious injury rates.
 
 
-## 📈 Tableau Dashboard
+## Tableau Dashboard
 
 The dashboard includes:
 - Interactive filters by **Aircraft Make**, **Year**, and **Injury Severity**
@@ -75,14 +75,14 @@ The dashboard includes:
 > Tableau link: **https://public.tableau.com/app/profile/fatuma.tari/viz/phase1projecttablaeu/Dashboard1**
 
 
-## 💡 Business Recommendations
+## Business Recommendations
 
-1. ✅ **Favor Makes with Low Fatality Rates**: Aircraft such as Grumman ACFT COR-SCHWEIZER, Airbus, STINSON, and Raven show lower fatal/serious outcomes.
-2. ✅ **Avoid High-Risk Engine Types**: Certain engine types like turbo fan, reciprocating, and turbo jet are linked to higher severity outcomes.
-3. ✅ **Focus on Commercial/Business Flights**: Flight purposes like instructional, aerial application and public aircraft(local) had significantly higher severe injury rates.
+1. **Favor Makes with Low Fatality Rates**: Aircraft such as Grumman ACFT COR-SCHWEIZER, Airbus, STINSON, and Raven show lower fatal/serious outcomes.
+2. **Avoid High-Risk Engine Types**: Certain engine types like turbo fan, reciprocating, and turbo jet are linked to higher severity outcomes.
+3. **Focus on Commercial/Business Flights**: Flight purposes like instructional, aerial application and public aircraft(local) had significantly higher severe injury rates.
 
 
-## 🏁 Conclusion
+## Conclusion
 
 This project demonstrates how data cleaning, exploratory analysis, and business intelligence can guide strategic investment decisions in aviation.  
 The insights and dashboard support **data-driven decision-making** for safe aircraft selection.
