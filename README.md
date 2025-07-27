@@ -22,7 +22,7 @@ I was tasked with analyzing accident data and making **three business recommenda
 | `aviation_cleaned_data.csv` | Cleaned version of the dataset, ready for analysis |
 | `Phase1_Project.ipynb` | Main Jupyter notebook with code, analysis, visualizations, and markdown |
 | `Phase1_Project.pdf` | Exported PDF version of the notebook |
-| `Nontechnical_presenation.pdf` | Exported PDF version of the nontechnical presentation |
+| `presenation.pdf` | Exported PDF version of the nontechnical presentation |
 | `Tableau_Dashboard.twbx` | Tableau packaged workbook (dashboard file) |
 | `README.md` | Project overview and documentation |
 
