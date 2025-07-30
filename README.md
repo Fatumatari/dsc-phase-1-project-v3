@@ -90,7 +90,7 @@ The dashboard includes:
 
 1. **Favor Makes with Low Fatality Rates**: Aircraft such as Grumman ACFT COR-SCHWEIZER, Airbus, STINSON, and Raven show lower fatal/serious outcomes.
 2. **Avoid High-Risk Engine Types**: Certain engine types like turboprop and turboshaft, are linked to higher severity outcomes while turbofan is the safest.
-3. **Focus on Commercial/Business Flights**: Flight purposes like instructional, aerial application and public aircraft(local) had significantly higher severe injury rates.
+3. **Focus on Commercial/Business Flights**: Flight purposes like instructional, aerial application and public aircraft(local) had significantly lower severe injury rates.
 
 
 ## Conclusion
